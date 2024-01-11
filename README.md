@@ -1,2 +1,2 @@
 ### Hi there 👋
-### I'm a 3rd year Computer Engineering student at Istanbul Technical University. I am interested in Backend Programming and I am improving myself in this field. I have experience with .NET, ASP.NET and Microservices. This is my personal repo for projects that I build personally.
+### Passionate software developer and 4th-year Computer Engineering student at Istanbul Technical University. Started software development career on the backend dev. using .NET, but currently, continuing with Java and Spring Boot. On the frontend side, using Angular.
