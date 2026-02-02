@@ -1,2 +1,1 @@
-### Hi there 👋
-### Passionate software developer and 4th-year Computer Engineering student at Istanbul Technical University. Started software development career on the backend dev. using .NET, but currently, continuing with Java and Spring Boot. On the frontend side, using Angular.
+I am a Software Engineer focused on scalable system design, microservice architecture, and algorithmic efficiency. Currently, I build full-stack solutions using Java (Spring Boot) and Angular. I enjoy taking ownership of meaningful projects and collaborating in agile teams to solve real-world problems.
